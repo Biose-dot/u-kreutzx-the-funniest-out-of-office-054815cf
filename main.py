@@ -1,6 +1,6 @@
 import os
 
-TEXT = "I'm out of office, rebooting my will to live. Your email will be ignored in the order it was received."
+TEXT = "Gone fishing for my motivation. Back never. Your email has been filed under 'read eventually, maybe.'"
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
