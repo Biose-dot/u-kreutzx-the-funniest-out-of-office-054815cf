@@ -1,7 +1,7 @@
 import os
 
 
-ENTRY = "I am out of the office, probably talking to my plants. They listen better than my inbox. Back Monday, or when the plants reply."
+ENTRY = "Gone fishing for my own attention span. If it is urgent, please email someone else. I am busy being unavailable."
 
 
 def main():
