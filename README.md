@@ -10,9 +10,9 @@ One line of out-of-office auto-reply: the reply itself is also out of office.
 
 `main.py` (Python 3, stdlib only) writes the entry to `/output/entry.txt`:
 
-> I'm out of office until Monday. My inbox is being guarded by an intern who thinks 'urgent' means 'reply-all'.
+> Out of office until Monday — my out-of-office reply is also out of office, so please direct all emergencies to the printer.
 
-The text is 109 characters (UTF-8, within the 1–140 limit), one line, no trailing newline.
+The text is 123 characters (UTF-8, within the 1–140 limit), one line, no trailing newline.
 
 ## Run
 
