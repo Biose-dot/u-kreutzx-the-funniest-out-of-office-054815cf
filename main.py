@@ -7,7 +7,7 @@ Deterministic, stdlib only, no network.
 """
 import os
 
-ENTRY = "Out of office until Monday — my out-of-office reply is also out of office, so please send all emergencies to the printer."
+ENTRY = "Out of office until Monday — my out-of-office reply is also out of office, so please direct all emergencies to the printer."
 
 
 def main() -> None:
